@@ -1,0 +1,16 @@
+{
+  "name": "catasoft-website",
+  "version": "1.0.0",
+  "description": "Local copy of CataSoft website (https://catasoft.vercel.app/)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "catasoft",
+    "local-clone"
+  ],
+  "author": "",
+  "license": "ISC"
+}
