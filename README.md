@@ -1,8 +1,8 @@
-> Start with the [local preview guide](docs/local-preview.md) for Windows commands, expected results, and troubleshooting.
-
 # CataSoft Website (Local Clone)
 
 This is a complete local replica of [https://catasoft.vercel.app/](https://catasoft.vercel.app/) including all static pages, styles, fonts, assets, and scripts.
+
+> Start with the [local preview guide](docs/local-preview.md) for Windows commands, expected results, and troubleshooting.
 
 ---
 
